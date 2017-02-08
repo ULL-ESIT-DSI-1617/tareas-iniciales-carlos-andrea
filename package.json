@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-carlos-andrea/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-carlos-andrea#readme"
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-carlos-andrea#readme",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
 }
