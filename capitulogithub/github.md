@@ -6,11 +6,11 @@ Github es un hosting para git, gratuito para proyectos opensource.
 Vamos a ver cómo configurar el entorno local para trabajar con github y cómo realizar una primera subida de un proyecto al repositorio.
 
 ## Crear una cuenta
-1. Entramos a ![Github](https://github.com/)
+1. Entramos a [Github](https://github.com/)
 
 2. Creamos una cuenta:
 
-[crearcuenta](crearcuenta.png)
+![crearcuenta](crearcuenta.png)
 
 
 ## Uso Básico
@@ -44,7 +44,7 @@ Una vez vinculado nuestro repositorio local con Github, debemos crear un reposit
 
 1. En la barra de usuario, en la esquina superior derecha de la página, hacemos clik en el icono de “Crear un repositorio nuevo” (Create a New Repo).
 
-[crearrepo](crearrepo.png)
+![crearrepo](crearrepo.png)
 
 2. Introduzcimos un nombre para el repositorio y seleccionamos que el repositorio sea público, ya que crear un repositorio privado no es gratuito.
 
@@ -52,7 +52,7 @@ Una vez vinculado nuestro repositorio local con Github, debemos crear un reposit
 
 4. Ahora debemos copiar la dirección “ssh” del repositorio (Ctrl+C).
 
-[imageninicial](imageninicial.png)
+![imageninicial](imageninicial.png)
 
 
 Ahora es el momento de crear una rama remota desde nuestra terminal (el repositorio local), con el comando git remote add rama-remota URL-repositorio-remoto (para más información ver el capítulo de Git).
@@ -60,5 +60,5 @@ Por último, empujamos los cambios en el repositorio local al remoto: git push -
 
 Este sería el aspecto del repositorio después de haber seguido estos sencillos pasos:
 
-[repo](repo.png)
+![repo](repo.png)
 
