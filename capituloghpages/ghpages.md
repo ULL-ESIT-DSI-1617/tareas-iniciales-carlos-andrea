@@ -1,4 +1,4 @@
-# GH-PAGES
+# gh-pages
 ## Introducción
 
 GitHub Pages (gh-pages) es un servicio de alojamiento gratuito que ofrece GitHub para alojar nuestros proyectos en un sitio web. Sirve tanto para un portafolio, landing page e incluso para crear un blog. Todo de manera gratuita y con repositorios ilimitados. 
