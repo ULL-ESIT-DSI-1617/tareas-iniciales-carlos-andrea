@@ -39,7 +39,7 @@ Ahora debemos dirigirnos a github para añadir la clave-pública a Github:
 
 * Pulse el botón verde para crear la clave (Add key).
 
-![setting](opcion.png)
+![opcion](opcion.png)
 
 
 Una vez vinculado nuestro repositorio local con Github, debemos crear un repositorio:
@@ -64,3 +64,13 @@ Este sería el aspecto del repositorio después de haber seguido estos sencillos
 
 ![repo](repo.png)
 
+
+Por otro lado, tenemos **hub**. Hub es una herramienta de línea de comandos que envuelve git con el fin de ampliarlo con funciones y comandos adicionales que facilitan el trabajo con GitHub.
+
+Para instalarlo en nuestro repositorio local, en la terminal, debemos seguir los siguientes pasos:
+
+* Clonar el repo de hub a nuestro repositorio local: git clone git@github.com:github/hub.git
+* Instalar hub: script/build -o ~/bin/hub.
+* Podemos añadir un alias para trabajar tanto con git como con hub: alias git=hub.
+
+Ya podemos utilizar el comando hub. Para comprobar que está instalado correctamente, hacemos: hub --version.
