@@ -39,6 +39,8 @@ Ahora debemos dirigirnos a github para añadir la clave-pública a Github:
 
 6. Pulse el botón verde para crear la clave (Add key).
 
+![settings](settings.png)
+
 
 Una vez vinculado nuestro repositorio local con Github, debemos crear un repositorio:
 
@@ -46,7 +48,7 @@ Una vez vinculado nuestro repositorio local con Github, debemos crear un reposit
 
 ![crearrepo](crearrepo.png)
 
-2. Introduzcimos un nombre para el repositorio y seleccionamos que el repositorio sea público, ya que crear un repositorio privado no es gratuito.
+2. Introducimos un nombre para el repositorio y seleccionamos que el repositorio sea público, ya que crear un repositorio privado no es gratuito.
 
 3. Pulsar el botón para crear el repositorio (Create repository).
 
