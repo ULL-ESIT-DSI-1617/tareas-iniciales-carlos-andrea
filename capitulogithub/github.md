@@ -39,7 +39,7 @@ Ahora debemos dirigirnos a github para añadir la clave-pública a Github:
 
 6. Pulse el botón verde para crear la clave (Add key).
 
-![settings](settings.png)
+![setting](opcion.png)
 
 
 Una vez vinculado nuestro repositorio local con Github, debemos crear un repositorio:
@@ -54,7 +54,7 @@ Una vez vinculado nuestro repositorio local con Github, debemos crear un reposit
 
 4. Ahora debemos copiar la dirección “ssh” del repositorio (Ctrl+C).
 
-![imageninicial](imageninicial.png)
+![inicial](inicial.png)
 
 
 Ahora es el momento de crear una rama remota desde nuestra terminal (el repositorio local), con el comando git remote add rama-remota URL-repositorio-remoto (para más información ver el capítulo de Git).
