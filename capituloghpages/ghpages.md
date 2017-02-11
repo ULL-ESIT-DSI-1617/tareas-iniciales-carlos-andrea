@@ -8,11 +8,11 @@ Vamos [Github](https://github.com/) y creamos un nuevo repositorio (seguir los p
 
 ![repo](repo.png)
 
-Vamos a crear la rama gh-pages: git branch gh-pages.
+* Vamos a crear la rama gh-pages: git branch gh-pages.
 
-Ahora empujamos los cambios de nuestrto repositorio local al remoto (Github): git push origin gh-pages.
+* Ahora empujamos los cambios de nuestrto repositorio local al remoto (Github): git push origin gh-pages.
 
-Ahora ya podemos ver los cambios entrando en: http://nombreusuario.github.io/nombrerepositorio.
+* Ahora ya podemos ver los cambios entrando en: http://nombreusuario.github.io/nombrerepositorio.
 
 ![libro](libro.png)
 
@@ -26,7 +26,7 @@ A partir de esto, podemos empezar a generar nuestros commits, tal como hemos vis
 Ahora ya podemos ver todos los cambios dentro del repositorio remoto en la dirección https://nombreusuario.github.io.
 
 
-Por otro lado, podemos *automatizar el despliegue de gh-pages* de la siguiente forma:
+Por otro lado, podemos **automatizar el despliegue de gh-pages** de la siguiente forma:
 * Hacemos: npm install gh-pages --save-dev.
 * Ahora debemos crear un fichero llamado deploy.js e introducir las siguietne lineas de código:
 
