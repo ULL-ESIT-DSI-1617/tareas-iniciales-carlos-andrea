@@ -9,7 +9,7 @@ Facilita un desarrollo no lineal, eficiente y ordenado, con gestión de ramas y 
 Podemos instalar git en varios sistemas operativos como:
 
 ### Windows:
-En este [enlace](https://sourceforge.net/projects/git-osx-installer/files/git-2.10.1-intel-universal-mavericks.dmg/download?use_mirror=autoselect) podemos acceder a la descarga del instalador de git para mac. Al descargarlo, la instalación en el pc será algo como esto:
+En este [enlace](https://git-for-windows.github.io/) podemos acceder a la descarga del instalador de git para mac. Al descargarlo, la instalación en el pc será algo como esto:
 
 ![instaladorwindows](instaladorwindows.png)
 
@@ -19,7 +19,8 @@ En este [enlace](https://sourceforge.net/projects/git-osx-installer/files/git-2.
 ![instaladormac](instaladormac.png)
 
 ### Linux:
-Para instalar Git en Linux, podemos hacerlo mendiante la terminal con el comando: 
+Para instalar Git en Linux, podemos hacerlo mendiante la terminal con el comando:
+
 apt-get install git
 
 ## Uso Básico
