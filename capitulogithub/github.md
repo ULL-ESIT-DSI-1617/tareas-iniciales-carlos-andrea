@@ -69,7 +69,7 @@ Por otro lado, tenemos **hub**. Hub es una herramienta de línea de comandos que
 
 Para instalarlo en nuestro repositorio local, en la terminal, debemos seguir los siguientes pasos:
 
-* Clonar el repo de hub a nuestro repositorio local: git clone git@github.com:github/hub.git
+* Clonar el repo de hub a nuestro repositorio local: git clone "git@github.com:github/hub.git".
 * Instalar hub: script/build -o ~/bin/hub.
 * Podemos añadir un alias para trabajar tanto con git como con hub: alias git=hub.
 
